@@ -13,7 +13,7 @@ A modern, clean BMI (Body Mass Index) calculator built with Python and customtki
 
 ## 📸 Screenshots
 
-![Health BMI Tracker Screenshot](Screenshot%20(302).png)
+![Health BMI Tracker Screenshot](image.png)
 
 ## 🚀 Installation
 
