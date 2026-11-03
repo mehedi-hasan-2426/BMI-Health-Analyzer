@@ -85,3 +85,11 @@ Contributions are welcome! Feel free to:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Dependency updates
+
+[Renovate](renovate.json) watches supported dependency manifests once its
+[GitHub App](https://github.com/apps/renovate) is installed for this repository.
+Routine updates are grouped weekly, with a three-day release-age delay;
+vulnerability PRs bypass both restrictions. All updates require manual review and
+passing checks; major upgrades first require Dependency Dashboard approval.
